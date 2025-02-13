@@ -11,5 +11,5 @@ if (parola.length > parola2.length){
 console.log(parola2);
 
 }else if (parola.length < parola2.length){
-    console.log(parola);v
+    console.log(parola);
 }
