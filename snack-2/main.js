@@ -9,7 +9,6 @@ console.log(parola,parola2);
 
 if (parola.length > parola2.length){
 console.log (`la parola: ${parola} è più corta della parola ${parola2}`);
-}
-  else if (parola.length < parola2.length){
-    console.log (`la parola: ${parola} è più corta della parola ${parola2}`);
+} else if (parola.length < parola2.length){
+    console.log (`la parola: ${parola2} è più lunga della parola ${parola})`);
 }
